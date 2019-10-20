@@ -50,7 +50,7 @@ $(document).ready(function () {
 
     //Creating the config for the firebase being used, and initializing it to be referenced later.
     var config = {
-        apiKey: "AIzaSyBdOM3mqG__SwwJQ7dhBNQNfE9SYuFIGw8",
+        apiKey: "AIzaSyAxEI6R_CI_JkT8CYRTiLEk3mL_IQwKhyc",
         authDomain: "projectconnect-956b5.firebaseapp.com",
         databaseURL: "https://projectconnect-956b5.firebaseio.com",
         projectId: "projectconnect-956b5",
